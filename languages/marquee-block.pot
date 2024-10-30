@@ -1,0 +1,110 @@
+# Copyright (C) 2024 Emran Ahmed
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: StorePress Marquee Block Plugin 1.0.4\n"
+"Report-Msgid-Bugs-To: https://storepress.com/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-24T08:41:29+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"language-team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Domain: marquee-block\n"
+
+#. Plugin Name of the plugin
+#: marquee-block.php
+msgid "Marquee Block"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: marquee-block.php
+msgid "https://wordpress.org/plugins/marquee-block"
+msgstr ""
+
+#. Description of the plugin
+#: marquee-block.php
+msgid "Marquee block adds a touch of movement and interactivity to your site and help to capture attention and engage your site visitors in a unique way."
+msgstr ""
+
+#. Author of the plugin
+#: marquee-block.php
+msgid "Emran Ahmed"
+msgstr ""
+
+#. Author URI of the plugin
+#: marquee-block.php
+msgid "https://storepress.com/"
+msgstr ""
+
+#: includes/Blocks.php:74
+msgid "StorePress"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:162
+msgid "Settings"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:164
+msgid "Orientation"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:206
+msgid "Animation Direction"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:246
+msgid "Animation Speed"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:247
+msgid "Animation speed in seconds"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:258
+msgid "Content Gap"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:259
+msgid "Content gap in PX"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:267
+msgid "Pause on hover"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:275
+msgid "Styles"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:277
+msgid "Enable Overlay"
+msgstr ""
+
+#: build/marquee/index.js:1
+#: build/marquee/index.js:292
+msgid "White Space - No Wrap"
+msgstr ""
+
+#: build/marquee/block.json
+msgctxt "block title"
+msgid "Marquee"
+msgstr ""
+
+#: build/marquee/block.json
+msgctxt "block description"
+msgid "Marquee block is CSS based animation block to display scrolling text, images and any kinds of blocks horizontally and vertically."
+msgstr ""
